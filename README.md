@@ -1,4 +1,4 @@
-# food_intake_chatbot
+
 # 🍲 Food Intake Chatbot
 
 An AI-powered chatbot that provides personalized **Indian diet recommendations** based on user preferences, health conditions, and BMI report data.
